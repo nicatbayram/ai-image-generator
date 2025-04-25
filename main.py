@@ -13,7 +13,8 @@ class AIImageGenerator:
         self.root.title("AI Image Generator")
         self.root.geometry("900x700")
 
-        self.api_key = "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"
+         # """ENTER YOUR API KEY"""        
+        self.api_key = ""
 
         # Main frame
         main_frame = ttk.Frame(root, padding="10")
