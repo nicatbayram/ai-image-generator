@@ -84,12 +84,6 @@ All images will be saved to the `ai_images/` directory with unique timestamped f
 - Pillow
 - requests
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to modify and use it for your own creative projects!
-
-## 🙌 Acknowledgements
-
-- [Hugging Face](https://huggingface.co) for providing the image generation models
-- Stable Diffusion and related model creators for open-source contributions
-
+## ScreenShots
+![1](https://github.com/user-attachments/assets/ac8a21e1-cca0-403f-8f99-904ae5bc8e3a)
+![2](https://github.com/user-attachments/assets/1754f2c9-1ffd-4a16-8161-bcc168811136)
